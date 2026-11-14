@@ -10,6 +10,10 @@ Kursmaterial i statistik med Python.
 
 ## Kom igång
 
+OBS! Om du har Windows, se till så att du inte använder PowerShell! I VS Code, används Command Prompt istället (Går att välja om du trycker på pilen bredvid plusset bredvid där det står PowerShell i terminalfönstret i VS Code.). Annars kommer vissa kommandon i terminalen inte fungera korrekt.
+
+Skapa ett virtuellt Python-miljö och aktivera det samt installera alla paket som behövs så här:
+
 ```
 python -m venv .venv
 .venv\Scripts\activate          (macOS/Linux: source .venv/bin/activate)
