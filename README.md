@@ -6,6 +6,7 @@ Kursmaterial i statistik med Python.
 |---|---|
 | `statistik_grunder.ipynb` | Kursens statistiska begrepp med körbara exempel och **Prova själv**-frågor |
 | `statistik_kodguide.md` | Förklaring av koden i notebooken, bibliotek för bibliotek |
+| [`course/`](course/README.md) | Kursen uppdelad i 15 notebooks, en per område, med labbar och övningar i en genomtänkt progression |
 
 ## Kom igång
 
