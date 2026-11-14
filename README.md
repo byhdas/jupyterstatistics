@@ -20,4 +20,6 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Öppna sedan `statistik_grunder.ipynb` i VS Code eller Jupyter, välj `.venv` som kernel och kör **Restart & Run All**.
+1. Öppna sedan `statistik_grunder.ipynb` i VS Code eller Jupyter
+2. Välj `.venv` som kernel
+3. Kör **Restart & Run All**.
